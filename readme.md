@@ -10,6 +10,13 @@ Profile GitHub: [**Zzeting**](https://github.com/Zzeting)
 
 - SQL (PostgreSQL)
 - Python
-- GIT/GitHub
+- GIT/GitHub (Terminal)
 
+Дполнительно мной освоены:
 
+- Dbeaver
+- Slak
+- Discord
+- Markdown
+
+При разработке первого проекта, информация о нем обязательно появиться здесь.
