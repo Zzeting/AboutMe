@@ -12,10 +12,4 @@ Profile GitHub: [**Zzeting**](https://github.com/Zzeting)
 - Python
 - GIT/GitHub
 
-Дполнительно мной освоены:
 
-- Slak
-- Discord
-- Markdown
-
-При разработке первого проекта, я обязательно опубликую информацию о нем. А пока я продолжу обучение.
